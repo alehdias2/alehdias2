@@ -1,4 +1,4 @@
-## Oiie, sou a Alessandra�🤙🏻
+## Oiie, sou a Alessandra🤙🏻
 - 19 anos
 - Cursando técnico em informática na escola profissionalizante Santo Agostinho
 - Atualmente estagiando
