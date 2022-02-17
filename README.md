@@ -1,3 +1,9 @@
+##oiie! Sou a Alessandra Dias 👋
+
+- 19 anos
+- Cursando técnico em informática na escola profissionalizante Santo Agostinho
+- Atualmente estagiando
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=alehdias2&show_icons=true&theme=vision-friendly-dark" alt="alehdias2's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdias2&layout=compact&theme=vision-friendly-dark" alt="alehdias2's most languages"/>
@@ -9,9 +15,8 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gab-Sql" height="30" width="30" src="https://user-images.githubusercontent.com/93562369/154387520-61f86c5c-2d55-4330-b057-6cda07bdf1ab.png">
-  <img align="right" alt="" height="150" style="border-radius:50px;"
-  src="https://share-cdn.picrew.me/shareImg/org/202202/338224_F8why8xi.png"/>
+  <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain.svg">
+  <img align="right" alt="" height="150" style="border-radius:50px;"src="https://share-cdn.picrew.me/shareImg/org/202202/338224_F8why8xi.png"/>
 </div>
   
   ##
