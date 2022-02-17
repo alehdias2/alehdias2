@@ -9,7 +9,8 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Nay-pic" height="150" style="border-radius:50px;"
+  <img align="center" alt="Gab-Sql" height="30" width="30" src="https://user-images.githubusercontent.com/93562369/154387520-61f86c5c-2d55-4330-b057-6cda07bdf1ab.png">
+  <img align="right" alt="" height="150" style="border-radius:50px;"
   src="https://share-cdn.picrew.me/shareImg/org/202202/338224_F8why8xi.png"/>
 </div>
   
