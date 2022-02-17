@@ -5,7 +5,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=alehdias2&show_icons=true&theme=vision-friendly-dark" alt="alehdias2's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdias2&layout=compact&theme=vision-friendly-dark" alt="alehdias2's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdias2&layout=compact&theme=vision-friendly-dark" alt="alehdias2's most languages" />
 </p>
 <br><br>
 <div style="display: inline_block"><br>
