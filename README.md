@@ -1,4 +1,3 @@
-##oiie! Sou a Alessandra Dias 👋
 
 - 19 anos
 - Cursando técnico em informática na escola profissionalizante Santo Agostinho
