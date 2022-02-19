@@ -2,11 +2,12 @@
 - 19 anos
 - Cursando técnico em informática na escola profissionalizante Santo Agostinho
 - Atualmente estagiando
+<div align="left">
+  <a href="https://github.com/alehdias2">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alehdias2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdias2&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alehdias2&show_icons=true&theme=vision-friendly-dark" alt="alehdias2's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdias2&layout=compact&theme=vision-friendly-dark" />
-</p>
 <br><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
