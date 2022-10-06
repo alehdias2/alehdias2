@@ -1,7 +1,8 @@
 ## Oiie, sou a Alessandra🤙🏻
 - 19 anos
-- Cursando técnico em informática na escola profissionalizante Santo Agostinho
-- Atualmente estagiando
+- Técnico em informática - Escola Profissionalizante Santo Agostinho
+- Sistemas da informação - Una - Primeiro Período 
+
 <div align="left">
   <a href="https://github.com/alehdias2">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=alehdias2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
