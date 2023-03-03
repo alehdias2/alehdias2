@@ -1,7 +1,7 @@
 ## Oiie, sou a Alessandra🤙🏻
-- 19 anos
+- 20 anos
 - Técnico em informática - Escola Profissionalizante Santo Agostinho
-- Sistemas da informação - Una - Primeiro Período 
+- Sistemas da informação - PUC - Primeiro Período 
 
 <div align="left">
   <a href="https://github.com/alehdias2">
